@@ -1,0 +1,8 @@
+prefix=/home/enaitz/catkin_ws/devel
+
+Name: roswww_static
+Description: Description of roswww_static
+Version: 0.21.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

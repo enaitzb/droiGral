@@ -1,0 +1,8 @@
+prefix=/home/enaitz/catkin_ws/devel
+
+Name: led_msgs
+Description: Description of led_msgs
+Version: 0.0.11
+Cflags: -I/home/enaitz/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs

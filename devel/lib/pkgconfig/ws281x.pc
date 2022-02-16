@@ -1,0 +1,8 @@
+prefix=/home/enaitz/catkin_ws/devel
+
+Name: ws281x
+Description: Description of ws281x
+Version: 0.0.11
+Cflags: -I/home/enaitz/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_generation roscpp led_msgs

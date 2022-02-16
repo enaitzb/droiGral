@@ -1,0 +1,8 @@
+prefix=/home/enaitz/catkin_ws/devel
+
+Name: clover
+Description: Description of clover
+Version: 0.21.1
+Cflags: -I/home/enaitz/catkin_ws/devel/include
+Libs: -L${prefix}/lib -lclover
+Requires: 

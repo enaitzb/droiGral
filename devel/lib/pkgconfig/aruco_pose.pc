@@ -1,0 +1,8 @@
+prefix=/home/enaitz/catkin_ws/devel
+
+Name: aruco_pose
+Description: Description of aruco_pose
+Version: 0.21.1
+Cflags: -I/home/enaitz/catkin_ws/devel/include -I/usr/include/opencv4
+Libs: -L${prefix}/lib -laruco_pose -l_opencv_aruco /usr/lib/x86_64-linux-gnu/libopencv_core.so.4.2.0 /usr/lib/x86_64-linux-gnu/libopencv_imgproc.so.4.2.0 /usr/lib/x86_64-linux-gnu/libopencv_calib3d.so.4.2.0
+Requires: message_runtime
