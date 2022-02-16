@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/enaitz/catkin_ws/devel/lib/libbezier.a  CMakeFiles/bezier.dir/BezierQuad.cpp.o CMakeFiles/bezier.dir/BezierN.cpp.o
+/usr/bin/ranlib /home/enaitz/catkin_ws/devel/lib/libbezier.a

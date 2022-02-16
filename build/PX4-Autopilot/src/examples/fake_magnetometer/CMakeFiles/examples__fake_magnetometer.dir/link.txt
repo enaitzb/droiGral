@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/enaitz/catkin_ws/devel/lib/libexamples__fake_magnetometer.a  CMakeFiles/examples__fake_magnetometer.dir/FakeMagnetometer.cpp.o
+/usr/bin/ranlib /home/enaitz/catkin_ws/devel/lib/libexamples__fake_magnetometer.a

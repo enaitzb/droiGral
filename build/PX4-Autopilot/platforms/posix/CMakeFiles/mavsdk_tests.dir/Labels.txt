@@ -1,0 +1,13 @@
+# Target labels
+ mavsdk_tests
+# Source files and their labels
+/home/enaitz/catkin_ws/build/PX4-Autopilot/platforms/posix/CMakeFiles/mavsdk_tests
+/home/enaitz/catkin_ws/build/PX4-Autopilot/platforms/posix/CMakeFiles/mavsdk_tests.rule
+/home/enaitz/catkin_ws/build/PX4-Autopilot/platforms/posix/CMakeFiles/mavsdk_tests-complete.rule
+/home/enaitz/catkin_ws/build/PX4-Autopilot/external/Stamp/mavsdk_tests/mavsdk_tests-install.rule
+/home/enaitz/catkin_ws/build/PX4-Autopilot/external/Stamp/mavsdk_tests/mavsdk_tests-mkdir.rule
+/home/enaitz/catkin_ws/build/PX4-Autopilot/external/Stamp/mavsdk_tests/mavsdk_tests-download.rule
+/home/enaitz/catkin_ws/build/PX4-Autopilot/external/Stamp/mavsdk_tests/mavsdk_tests-update.rule
+/home/enaitz/catkin_ws/build/PX4-Autopilot/external/Stamp/mavsdk_tests/mavsdk_tests-patch.rule
+/home/enaitz/catkin_ws/build/PX4-Autopilot/external/Stamp/mavsdk_tests/mavsdk_tests-configure.rule
+/home/enaitz/catkin_ws/build/PX4-Autopilot/external/Stamp/mavsdk_tests/mavsdk_tests-build.rule

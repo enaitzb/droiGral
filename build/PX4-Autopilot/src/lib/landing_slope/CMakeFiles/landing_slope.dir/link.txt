@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/enaitz/catkin_ws/devel/lib/liblanding_slope.a  CMakeFiles/landing_slope.dir/Landingslope.cpp.o
+/usr/bin/ranlib /home/enaitz/catkin_ws/devel/lib/liblanding_slope.a

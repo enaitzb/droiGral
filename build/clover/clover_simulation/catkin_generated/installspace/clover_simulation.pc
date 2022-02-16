@@ -1,0 +1,8 @@
+prefix=/home/enaitz/catkin_ws/install
+
+Name: clover_simulation
+Description: Description of clover_simulation
+Version: 0.21.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: led_msgs gazebo_ros gazebo_plugins

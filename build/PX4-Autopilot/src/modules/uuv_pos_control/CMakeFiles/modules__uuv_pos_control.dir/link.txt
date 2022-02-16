@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/enaitz/catkin_ws/devel/lib/libmodules__uuv_pos_control.a  CMakeFiles/modules__uuv_pos_control.dir/uuv_pos_control.cpp.o
+/usr/bin/ranlib /home/enaitz/catkin_ws/devel/lib/libmodules__uuv_pos_control.a

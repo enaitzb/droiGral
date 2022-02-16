@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/enaitz/catkin_ws/devel/lib/librpi_ws281x.a  CMakeFiles/rpi_ws281x.dir/rpi_ws281x/dma.c.o CMakeFiles/rpi_ws281x.dir/rpi_ws281x/mailbox.c.o CMakeFiles/rpi_ws281x.dir/rpi_ws281x/pcm.c.o CMakeFiles/rpi_ws281x.dir/rpi_ws281x/pwm.c.o CMakeFiles/rpi_ws281x.dir/rpi_ws281x/rpihw.c.o CMakeFiles/rpi_ws281x.dir/rpi_ws281x/ws2811.c.o
+/usr/bin/ranlib /home/enaitz/catkin_ws/devel/lib/librpi_ws281x.a

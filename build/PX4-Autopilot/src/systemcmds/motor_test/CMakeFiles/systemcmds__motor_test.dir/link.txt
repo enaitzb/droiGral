@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/enaitz/catkin_ws/devel/lib/libsystemcmds__motor_test.a  CMakeFiles/systemcmds__motor_test.dir/motor_test.cpp.o
+/usr/bin/ranlib /home/enaitz/catkin_ws/devel/lib/libsystemcmds__motor_test.a

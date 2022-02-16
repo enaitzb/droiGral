@@ -1,0 +1,7 @@
+set(clover_simulation_SETUP_PY_SETUP_MODULE "distutils.core")
+set(clover_simulation_SETUP_PY_VERSION "0.21.1")
+set(clover_simulation_SETUP_PY_SCRIPTS "")
+set(clover_simulation_SETUP_PY_PACKAGES "clover_simulation")
+set(clover_simulation_SETUP_PY_PACKAGE_DIRS "src/clover_simulation")
+set(clover_simulation_SETUP_PY_MODULES "")
+set(clover_simulation_SETUP_PY_MODULE_DIRS "")

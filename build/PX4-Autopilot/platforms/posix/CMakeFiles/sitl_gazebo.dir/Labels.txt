@@ -1,0 +1,13 @@
+# Target labels
+ sitl_gazebo
+# Source files and their labels
+/home/enaitz/catkin_ws/build/PX4-Autopilot/platforms/posix/CMakeFiles/sitl_gazebo
+/home/enaitz/catkin_ws/build/PX4-Autopilot/platforms/posix/CMakeFiles/sitl_gazebo.rule
+/home/enaitz/catkin_ws/build/PX4-Autopilot/platforms/posix/CMakeFiles/sitl_gazebo-complete.rule
+/home/enaitz/catkin_ws/build/PX4-Autopilot/external/Stamp/sitl_gazebo/sitl_gazebo-install.rule
+/home/enaitz/catkin_ws/build/PX4-Autopilot/external/Stamp/sitl_gazebo/sitl_gazebo-mkdir.rule
+/home/enaitz/catkin_ws/build/PX4-Autopilot/external/Stamp/sitl_gazebo/sitl_gazebo-download.rule
+/home/enaitz/catkin_ws/build/PX4-Autopilot/external/Stamp/sitl_gazebo/sitl_gazebo-update.rule
+/home/enaitz/catkin_ws/build/PX4-Autopilot/external/Stamp/sitl_gazebo/sitl_gazebo-patch.rule
+/home/enaitz/catkin_ws/build/PX4-Autopilot/external/Stamp/sitl_gazebo/sitl_gazebo-configure.rule
+/home/enaitz/catkin_ws/build/PX4-Autopilot/external/Stamp/sitl_gazebo/sitl_gazebo-build.rule

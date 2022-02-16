@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/enaitz/catkin_ws/devel/lib/libvehicle_imu.a  CMakeFiles/vehicle_imu.dir/VehicleIMU.cpp.o
+/usr/bin/ranlib /home/enaitz/catkin_ws/devel/lib/libvehicle_imu.a

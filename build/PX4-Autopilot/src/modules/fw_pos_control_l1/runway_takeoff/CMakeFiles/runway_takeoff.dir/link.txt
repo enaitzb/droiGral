@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/enaitz/catkin_ws/devel/lib/librunway_takeoff.a  CMakeFiles/runway_takeoff.dir/RunwayTakeoff.cpp.o
+/usr/bin/ranlib /home/enaitz/catkin_ws/devel/lib/librunway_takeoff.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/enaitz/catkin_ws/devel/lib/libecl_geo.a  CMakeFiles/ecl_geo.dir/geo.cpp.o
+/usr/bin/ranlib /home/enaitz/catkin_ws/devel/lib/libecl_geo.a

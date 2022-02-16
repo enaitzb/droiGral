@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/enaitz/catkin_ws/devel/lib/lib_opencv_aruco.a  CMakeFiles/_opencv_aruco.dir/vendor/aruco/src/apriltag_quad_thresh.cpp.o CMakeFiles/_opencv_aruco.dir/vendor/aruco/src/aruco.cpp.o CMakeFiles/_opencv_aruco.dir/vendor/aruco/src/charuco.cpp.o CMakeFiles/_opencv_aruco.dir/vendor/aruco/src/dictionary.cpp.o CMakeFiles/_opencv_aruco.dir/vendor/aruco/src/zmaxheap.cpp.o
+/usr/bin/ranlib /home/enaitz/catkin_ws/devel/lib/lib_opencv_aruco.a

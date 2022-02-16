@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/enaitz/catkin_ws/devel/lib/libparameters.a  CMakeFiles/parameters.dir/parameters.cpp.o CMakeFiles/parameters.dir/param_translation.cpp.o
+/usr/bin/ranlib /home/enaitz/catkin_ws/devel/lib/libparameters.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/enaitz/catkin_ws/devel/lib/libmodules__fake_imu.a  CMakeFiles/modules__fake_imu.dir/FakeImu.cpp.o
+/usr/bin/ranlib /home/enaitz/catkin_ws/devel/lib/libmodules__fake_imu.a

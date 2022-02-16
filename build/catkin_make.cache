@@ -1,0 +1,2 @@
+PX4-Autopilot:clover/aruco_pose:clover/clover:clover/clover_blocks:clover/clover_description:clover/clover_simulation:clover/roswww_static:mav_comm/mav_comm:mav_comm/mav_msgs:mav_comm/mav_planning_msgs:mav_comm/mav_state_machine_msgs:mav_comm/mav_system_msgs:ros_led/led_msgs:ros_led/ws281x:sitl_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/enaitz/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/enaitz/catkin_ws/install -G Unix Makefiles

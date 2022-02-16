@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/enaitz/catkin_ws/devel/lib/libexamples__work_item.a  CMakeFiles/examples__work_item.dir/WorkItemExample.cpp.o
+/usr/bin/ranlib /home/enaitz/catkin_ws/devel/lib/libexamples__work_item.a
